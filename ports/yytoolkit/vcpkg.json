@@ -1,0 +1,7 @@
+{
+  "name": "yytoolkit",
+  "version": "3.3.1",
+  "description": "The definitive internal modding tool for GameMaker games",
+  "homepage": "https://github.com/AurieFramework/YYToolkit",
+  "dependencies": ["aurie"]
+}
